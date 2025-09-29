@@ -1,0 +1,8 @@
+amount,category,date,description,recurring,last_added_month,limit
+480.0,housing,2025-07-06,,n,,250.0
+500.0,savings,2025-04-30,for laptop,n,,
+75.0,food,2025-08-08,,n,,
+20.0,personal,2025-09-25,lipgloss,n,,
+600.0,housing,2025-09-10,,n,,n
+130.0,bills,2025-10-08,rent,n,,y
+55.0,food,2025-05-07,,n,,
